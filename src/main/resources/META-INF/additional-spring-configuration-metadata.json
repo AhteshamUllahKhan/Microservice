@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "management.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'management.server.port'"
+  },
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  },
+  {
+    "name": "spring.cloud.config.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.enabled'"
+  },
+  {
+    "name": "spring.cloud.config.server.git.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.server.git.uri'"
+  }
+]}
